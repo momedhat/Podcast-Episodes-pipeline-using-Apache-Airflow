@@ -18,6 +18,4 @@ Additionally, We can extend this project more easily (add speech recognition, su
 ## Snapshots
 
 ### DAG
-
-
-###
+![dag_snapshot](dag_snapshot.jpg)
