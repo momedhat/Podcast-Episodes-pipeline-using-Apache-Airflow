@@ -11,10 +11,11 @@ Using Airflow can inclusion provides several advantages:
 Additionally, We can extend this project more easily (add speech recognition, summaries, etc) using Airflow By the end of this project, you'll have a good understanding of how to use Airflow, along with a practical project that you can continue to build on.
 
 ## Project Steps
-* Download the podcast metadata xml and parse
 * Create a SQLite database to hold podcast metadata
+* Download the podcast metadata xml and parse
 * Download the podcast audio files using requests
-
+* Load the podcasts data into sqlite database
+ 
 ## Snapshots
 
 ### DAG
